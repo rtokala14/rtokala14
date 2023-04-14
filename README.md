@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AstroJS**
 
-- 👨‍💻 All of my projects are available at [https://www.rohittokala.com/](https://www.rohittokala.com/)
+- 👨‍💻 All of my projects are available at [tokala.dev](https://tokala.dev)
 
 - 📫 How to reach me **tokalarr@gmail.com**
 
