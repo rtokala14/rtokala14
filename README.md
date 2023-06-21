@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Tokala</h1>
 <h3 align="center">An aspiring fullstack developer with experience working with React, Express, NextJS and Astro.</h3>
 
-- 🔭 I’m currently working on [Ribbit - A serverless open-source Twitter](https://github.com/rtokala14/ribbit)
+- 🔭 I’m currently working on [Ribbit - A serverless open-source Twitter](https://github.com/rtokala14/ribbit-next13)
 
 - 🌱 I’m currently learning **AstroJS**
 
